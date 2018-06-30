@@ -1,9 +1,5 @@
 var Service, Characteristic;
 
-var sys = require('sys')
-var exec = require('child_process').exec;
-var request = require("request")
-
 module.exports = function(homebridge) {
   console.log("homebridge API version: " + homebridge.version);
 
