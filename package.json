@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-timer-switch",
+  "name": "timer-switch",
   "version": "0.0.1",
   "description": "Toggling switch on a timer to trigger automations.",
   "license": "BSD-2-Clause",
@@ -23,8 +23,4 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Willy",
-  "dependencies": {
-    "homebridge-timer-switch": "^0.0.1"
-  },
-  "devDependencies": {}
 }
