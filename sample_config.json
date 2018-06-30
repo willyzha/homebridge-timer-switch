@@ -1,0 +1,10 @@
+{
+    "accessories": [
+        {
+            "accessory": "TimerSwitch",
+            "name": "Timer",
+            "update_interval": 10000,
+            "init_state": true 
+        }
+    ]
+}
